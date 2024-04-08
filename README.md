@@ -2,7 +2,7 @@
 
 Toggle between light and dark mode, persist the state via encrypted session token and display a cookie consent and privacy policy via Next JS' intercepting and parallel routes.
 
-![Screenshot](./_screenshot.jpg)
+![Screenshot](./public/_screenshot.jpg)
 
 Kudos to the instructive article [best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f) by Salma Alam-Naylor.
 
